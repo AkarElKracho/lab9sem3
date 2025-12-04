@@ -1,0 +1,10 @@
+﻿  sem3lab9.cpp
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(121,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(135,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(137,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(175,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(197,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(219,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(241,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab9\sem3lab9\sem3lab9.cpp(321,13): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+  sem3lab9.vcxproj -> C:\Users\admin\source\repos\sem3lab9\x64\Debug\sem3lab9.exe
